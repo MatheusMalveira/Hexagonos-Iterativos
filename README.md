@@ -1,2 +1,2 @@
-# Hex-gonosIterativos
+# Hexagonos-Iterativos
 Hexágonos Iterativos
